@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    padding: 20px;
+    background-color:#171321;
+}
+.objective {
+margin-top: 200px;
+margin-right: 20px;
+}
+.nav-items{
+
+    color:aliceblue;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+    
+}
+.nav a{
+    text-decoration: none;
+    color: #f7f8fa;
+    padding: 5px;
+}
+
+.btn button{
+    background-color: #ff17e4;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    color: #f7f8fa;
+    border: none;
+    outline: none;
+}
+.intro{
+    color: #f7f8fa;
+    display: flex;
+    justify-content: space-between;
+}
+.photocard img{
+    height: 250px;
+    padding: 16px;
+    border-radius: 50%;
+    border-left: 4px solid #ff17e4;
+    border-right: 4px solid #45c6ee;
+    margin: 90px;
+    display: flex;
+}
+
+.photocard h2{
+    text-align: center;
+    color: aqua;
+    
+}
+.info{
+    margin: auto;
+
+}
+.logo h3{
+    color: aqua;
+    font-size: 20px;
+}
+  
+
+
+.info h2{
+    color: aqua;
+}
+.education{
+    display: flex;
+    justify-content: center;
+    padding: 10px;    
+    flex-direction: column;
+    padding: 20PX;
+}
+
+table th,td{
+
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ebeaeb;
+    color: #f7f8fa;
+    text-align: left;
+    
+
+}
+table{
+    border-collapse: collapse;
+}
+.personal-information h2{
+    color: aqua;
+}
+.personal-information{
+    display: flex;
+    justify-content: center;
+    padding: 10px;    
+    flex-direction: column;
+    padding: 20PX;
+    
+}
+#tb_personal{
+    width: 100%;
+}
+.education H2{
+    color: aqua;
+}
+.footer{
+color: #189099;
+text-align: center;
+}
+
+.btn a{
+text-decoration: none;
+color: #f7f8fa;
+}
